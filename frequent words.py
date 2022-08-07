@@ -1,7 +1,6 @@
 from sqlite3 import paramstyle
 import praw
 from praw.models import MoreComments
-import matplotlib.pyplot as plt
 from cleantext import clean
 import operator
 
